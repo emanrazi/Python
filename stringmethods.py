@@ -1,0 +1,21 @@
+a="Emaaan"
+print(len(a))
+print(a.upper())
+print(a.lower())
+str="eman hu yar*******"
+print(str.rstrip("*"))
+print(a.replace("Eman","Razi"))
+print(str.split(" "))
+print(str.capitalize())
+print(a.center(25))
+print(a.count("a"))
+print(str.endswith("*"))
+print(a.startswith("E"))
+print(a.find("a"))
+print(a.isalnum())
+str1="12e"
+print(str1.isalpha())
+print(str.title())
+print(str.isspace())
+print(str.islower())
+print(str.isupper())
